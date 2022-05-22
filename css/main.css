@@ -2,7 +2,8 @@ html {
   scroll-behavior: smooth; }
 
 #intro {
-  background: url("../img/blue-grey.jpg") no-repeat center center;
+  /*background: url("../img/blue-grey.jpg") no-repeat center center;*/
+  background: url("../img/workspace-1280538_1920.jpg") no-repeat center center;
   background-size: cover; }
 
 .site-bg-img {
